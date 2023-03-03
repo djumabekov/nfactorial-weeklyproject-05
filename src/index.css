@@ -758,15 +758,15 @@ body{
 .back-to-top {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  right: 50%;
   font-size: 80px;
   background: #ccc;
-  color: #130125;
+  color: #FFFFFF;
   cursor: pointer;
   border-radius: 100px;
   border: none;
   box-shadow: 0 5px 10px #ccc;
-  opacity: 0.5;
+  opacity: 0.2;
 }
 
 .back-to-top:hover {
