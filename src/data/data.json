@@ -1,0 +1,78 @@
+[
+    {
+        "id": 0,
+        "name" : "Jumabekov Darkhan",
+        "links" : [
+            {"name" : "About", "url" : "#"}, 
+            {"name" : "Experience", "url" :"#"}, 
+            {"name" : "Projects", "url" : "#"},
+            {"name" : "Contacts", "url" : "#"}
+        ]
+    },
+    {   "id": 1,
+        "promoMainText" : "Hi, I’m Jumabekov Darkhan, I build things for the web.",
+        "promoDescription" : "I’m software developer and this is my portfolio.",
+        "promoLinkToCV" : "../assets/CV/CV.docx"
+    },
+    {
+        "id": 2,
+        "aboutMeMainText" : "About me",
+        "aboutMeDescription" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio.",
+        "aboutMeListItems" : ["Lorem Ipsum Description Text", "Lorem Ipsum Description Text", "Lorem Ipsum Description Text", "Lorem Ipsum Description Text"],
+        "aboutMePhoto" : "../assets/images/about-photo.png"
+    },
+    {
+        "id": 3,
+        "experienceMainText" : "Experience",
+        "experienceListItems" : [
+            {
+                "date" : "2021-2022",
+                "role" : "The Role at the Company", 
+                "country" : "Country, City",
+                "description" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio."
+            },
+            {
+                "date" : "2021-2022",
+                "role" : "The Role at the Company", 
+                "country" : "Country, City",
+                "description" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio."
+            },
+            {
+                "date" : "2021-2022",
+                "role" : "The Role at the Company", 
+                "country" : "Country, City",
+                "description" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "projectsWorkedOnMainText" : "Projects I’ve Worked On",
+        "projectsWorkedOnListItems" : 
+                                    [
+                                        {
+                                            "photo" : "../assets/images/project.png",
+                                            "name" : "Project Name",
+                                            "description" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio.",
+                                            "projectItems" : ["Lorem Ipsum Description Text", "Lorem Ipsum Description Text"]
+                                        },
+                                        {
+                                            "photo" : "../assets/images/project2.png",
+                                            "name" : "Project Name2",
+                                            "description" : "I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio.",
+                                            "projectItems" : ["Lorem Ipsum Description Text", "Lorem Ipsum Description Text"]
+                                        }
+                                    ]
+    },
+    {
+        "id": 5,
+        "contactsMainText" : "Say Hello",
+        "contactsDescription" : "I’m software developer and this is my portfolio.",
+        "contactsLink" : "http://github.com"
+    },
+    {
+        "id": 6,
+        "footerMade" : "Made with 🤍 at nFactorial in 2022.",
+        "footerLinks" : ["icon8.com", "unsplash.com"]
+    }
+]
