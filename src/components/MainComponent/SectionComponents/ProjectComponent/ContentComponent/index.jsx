@@ -1,7 +1,6 @@
 const Content = ({data}) => {
 
     return (
-       <>
         <div className="project-info">
             <div className="project-info-title">
                 <div className="project-info-title-maintext">
@@ -23,7 +22,6 @@ const Content = ({data}) => {
                 </ul>
             </div>
         </div>
-</>
     );
   }
   
